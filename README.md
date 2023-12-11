@@ -1,5 +1,4 @@
-# html
-I have started to learn front-end developing
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
